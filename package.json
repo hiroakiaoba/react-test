@@ -1,0 +1,23 @@
+{
+  "name": "react-test",
+  "version": "1.0.0",
+  "description": "reactの基礎を勉強するためのリポジトリ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiroakiaoba/react-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiroakiaoba/react-test/issues"
+  },
+  "homepage": "https://github.com/hiroakiaoba/react-test#readme",
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  }
+}
